@@ -1,0 +1,269 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "countInversions",
+      "request": "launch",
+      "mainClass": "countInversions",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "permutationSequence",
+      "request": "launch",
+      "mainClass": "permutationSequence",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "PalindromePartitioning",
+      "request": "launch",
+      "mainClass": "PalindromePartitioning",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "MColoringProblem",
+      "request": "launch",
+      "mainClass": "MColoringProblem",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "sortCharacterByFrequency",
+      "request": "launch",
+      "mainClass": "leetCode.sortCharacterByFrequency",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "sieveOfEratosthenus",
+      "request": "launch",
+      "mainClass": "maths_basics.sieveOfEratosthenus",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "sudokuSolver",
+      "request": "launch",
+      "mainClass": "sudokuSolver",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "NQueens_hashing",
+      "request": "launch",
+      "mainClass": "NQueens_hashing",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "NQueens",
+      "request": "launch",
+      "mainClass": "NQueens",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "permutations",
+      "request": "launch",
+      "mainClass": "permutations",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "subset2",
+      "request": "launch",
+      "mainClass": "subset2",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "subsetSum",
+      "request": "launch",
+      "mainClass": "subsetSum",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "mergeSort",
+      "request": "launch",
+      "mainClass": "mergeSort",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "BasicsMath",
+      "request": "launch",
+      "mainClass": "maths_basics.BasicsMath",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "BasicsMath",
+      "request": "launch",
+      "mainClass": "BasicsMath",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "binaryExponentiation",
+      "request": "launch",
+      "mainClass": "binaryExponentiation",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "sieveOfEratosthenus",
+      "request": "launch",
+      "mainClass": "sieveOfEratosthenus",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "quickSort2",
+      "request": "launch",
+      "mainClass": "quickSort2",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "subsequences",
+      "request": "launch",
+      "mainClass": "subsequences",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "recursionBasic",
+      "request": "launch",
+      "mainClass": "recursionBasic",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "DequeDemo",
+      "request": "launch",
+      "mainClass": "DequeDemo",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "PriorityQueueDemo",
+      "request": "launch",
+      "mainClass": "PriorityQueueDemo",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "QueueDemo",
+      "request": "launch",
+      "mainClass": "QueueDemo",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "stackImplLinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList.stackImplLinkedList",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "DoubleLL",
+      "request": "launch",
+      "mainClass": "LinkedList.DoubleLL",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList2",
+      "request": "launch",
+      "mainClass": "LinkedList.LinkedList2",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList.LinkedList",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "ArrayList2",
+      "request": "launch",
+      "mainClass": "ArrayList2",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "ContainerWithMostWater",
+      "request": "launch",
+      "mainClass": "ContainerWithMostWater",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "arrayList",
+      "request": "launch",
+      "mainClass": "arrayList",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "stack$stack1",
+      "request": "launch",
+      "mainClass": "stack$stack1",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "stack2",
+      "request": "launch",
+      "mainClass": "stack2",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "stack",
+      "request": "launch",
+      "mainClass": "stack",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "accenture_practice",
+      "request": "launch",
+      "mainClass": "accenture_practice",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "divideAndConquer",
+      "request": "launch",
+      "mainClass": "divideAndConquer",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "f:/DSAwithJava",
+      "program": "f:/DSAwithJava/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
