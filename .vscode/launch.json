@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CombinationSumIV",
+      "request": "launch",
+      "mainClass": "CombinationSumIV",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "CombinationSumIII",
+      "request": "launch",
+      "mainClass": "CombinationSumIII",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "CombinationSumII",
+      "request": "launch",
+      "mainClass": "CombinationSumII",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "combinationSumI",
+      "request": "launch",
+      "mainClass": "combinationSumI",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "arrayProgramming",
+      "request": "launch",
+      "mainClass": "arrayProgramming",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "countInversions",
       "request": "launch",
       "mainClass": "countInversions",

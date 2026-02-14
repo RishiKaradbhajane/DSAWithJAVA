@@ -29,7 +29,7 @@ public class arrayProgramming {
     public static int binarySearch(int numbers[], int key) {
         int start = 0, end = numbers.length - 1;
         while (start <= end) {
-            int mid = (start + end) / 2;
+            int mid = start + (end - start) / 2;
             if (numbers[mid] == key) {
                 return mid;
             }
@@ -99,6 +99,8 @@ public class arrayProgramming {
         // System.out.println();
 
         int numbr[] = { 2, 4, 6, 8, 10, 12 };
+        int f = binarySearch(numbr, 7);
+        System.out.println(f);
         // pairInArray(numbr);
         System.out.println(numbr);
 

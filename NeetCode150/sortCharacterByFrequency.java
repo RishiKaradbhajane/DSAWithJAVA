@@ -1,4 +1,4 @@
-package leetCode;
+package NeetCode150;
 import java.util.*;
 class Element implements Comparable<Element>{
     int freq;
