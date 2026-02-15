@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TopKFrequentELement",
+      "request": "launch",
+      "mainClass": "NeetCode150.TopKFrequentELement",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "GroupAnagram",
+      "request": "launch",
+      "mainClass": "NeetCode150.GroupAnagram",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "TwoSum",
+      "request": "launch",
+      "mainClass": "NeetCode150.TwoSum",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "ValidAnagram",
+      "request": "launch",
+      "mainClass": "NeetCode150.ValidAnagram",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "containsDuplicate",
+      "request": "launch",
+      "mainClass": "NeetCode150.containsDuplicate",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "CombinationSumIV",
       "request": "launch",
       "mainClass": "CombinationSumIV",
