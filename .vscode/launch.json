@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ProductOfArrayExceptSelf",
+      "request": "launch",
+      "mainClass": "NeetCode150.ProductOfArrayExceptSelf",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "TopKFrequentELement",
       "request": "launch",
       "mainClass": "NeetCode150.TopKFrequentELement",
