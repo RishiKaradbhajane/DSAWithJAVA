@@ -28,7 +28,6 @@ public class ValidSudoku {
                     return false;
                 }
                 col[c].add(ch);
-
                 int idx = (r/3)*3 + c/3;
                 if(box[idx].contains(ch)) {
                     return false;
