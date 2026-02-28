@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "twoSumIIWhenArrayIsSorted",
+      "request": "launch",
+      "mainClass": "NeetCode150.twoSumIIWhenArrayIsSorted",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "validPalindrome",
+      "request": "launch",
+      "mainClass": "NeetCode150.validPalindrome",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "longestConsecutiveSubsequence",
       "request": "launch",
       "mainClass": "NeetCode150.longestConsecutiveSubsequence",

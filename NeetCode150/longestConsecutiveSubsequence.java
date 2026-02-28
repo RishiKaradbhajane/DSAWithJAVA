@@ -1,5 +1,6 @@
 package NeetCode150;
 import java.util.*;
+// leetcode 128
 public class longestConsecutiveSubsequence {
     public static int longestConsecutive(int[] nums){
         if(nums.length==0) return 0;
