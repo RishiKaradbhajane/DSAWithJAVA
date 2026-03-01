@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BestTimeToBuyAndSellStock",
+      "request": "launch",
+      "mainClass": "NeetCode150.BestTimeToBuyAndSellStock",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "trappingRainwater",
+      "request": "launch",
+      "mainClass": "NeetCode150.trappingRainwater",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "ContainerWithMostWater",
       "request": "launch",
       "mainClass": "NeetCode150.ContainerWithMostWater",
