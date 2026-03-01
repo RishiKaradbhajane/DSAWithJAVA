@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContainerWithMostWater",
+      "request": "launch",
+      "mainClass": "NeetCode150.ContainerWithMostWater",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "threeSum",
+      "request": "launch",
+      "mainClass": "NeetCode150.threeSum",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "Lec01_tuf",
+      "request": "launch",
+      "mainClass": "NeetCode150.BitManipulation.Lec01_tuf",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "twoSumIIWhenArrayIsSorted",
       "request": "launch",
       "mainClass": "NeetCode150.twoSumIIWhenArrayIsSorted",

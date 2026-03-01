@@ -42,7 +42,7 @@ public class GFG {
 // User function Template for Java
 
 class Solution {
-    public ArrayList<Integer> commonElements(int A[], int B[], int C[], int n1, int n2, int n3) {
+    public static ArrayList<Integer> commonElements(int A[], int B[], int C[], int n1, int n2, int n3) {
         // code here
         Arrays.sort(A);
         Arrays.sort(B);
@@ -63,5 +63,6 @@ class Solution {
                 k++;
             }
         }
+        return cl;
     }
 }
