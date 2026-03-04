@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DailyTemperature",
+      "request": "launch",
+      "mainClass": "NeetCode150.DailyTemperature",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "GenerateParenthesis",
+      "request": "launch",
+      "mainClass": "NeetCode150.GenerateParenthesis",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "PermutationInString",
+      "request": "launch",
+      "mainClass": "NeetCode150.PermutationInString",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "longestSubstrinWithoutRepeatingCharacter",
       "request": "launch",
       "mainClass": "NeetCode150.longestSubstrinWithoutRepeatingCharacter",
