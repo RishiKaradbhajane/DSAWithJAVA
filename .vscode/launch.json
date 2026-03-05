@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CarFleet",
+      "request": "launch",
+      "mainClass": "NeetCode150.CarFleet",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "DailyTemperature",
       "request": "launch",
       "mainClass": "NeetCode150.DailyTemperature",

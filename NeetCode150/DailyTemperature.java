@@ -25,7 +25,7 @@ public class DailyTemperature {
     }
 
     public static void main(String[] args) {
-        int[] ans = dailyTemperatures(new int[] { 73, 74, 75, 71, 69, 72, 76, 73 });
+        int[] ans = dailyTemperatures(new int[] { 73, 74, 75, 71, 69, 72, 76, 73});
         System.out.print("The next day temperatures are : \n");
         for (int num : ans) {
             System.out.print(num + ",");
