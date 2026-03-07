@@ -3,7 +3,11 @@ import java.util.*;
 /*
 LEETCODE 84
 SC = O(N)
+<<<<<<< HEAD
 TC = O(N) + O(N)
+=======
+TC = O(N)
+>>>>>>> 1be4071e990ba42893c4379d991c045097adf0b9
  */
 public class LargestRectangleInHistogram {
     public static  int largestRectangleArea(int[] heights){
