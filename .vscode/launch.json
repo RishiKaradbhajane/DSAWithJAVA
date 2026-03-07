@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LargestRectangleInHistogram",
+      "request": "launch",
+      "mainClass": "NeetCode150.LargestRectangleInHistogram",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "CarFleet",
       "request": "launch",
       "mainClass": "NeetCode150.CarFleet",
