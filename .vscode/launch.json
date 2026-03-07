@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SearchA2DMatrix",
+      "request": "launch",
+      "mainClass": "NeetCode150.SearchA2DMatrix",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "NeetCode150.BinarySearch",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "LargestRectangleInHistogram",
       "request": "launch",
       "mainClass": "NeetCode150.LargestRectangleInHistogram",
