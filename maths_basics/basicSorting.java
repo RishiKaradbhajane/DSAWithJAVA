@@ -1,5 +1,5 @@
 package maths_basics;
-import java.util.*;
+
 public class basicSorting{
         public static void bubbleSort(int arr[]){
         int nswaps = 0;

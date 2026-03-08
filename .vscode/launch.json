@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SearchInRotatedSortedArrayII",
+      "request": "launch",
+      "mainClass": "NeetCode150.SearchInRotatedSortedArrayII",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "SearchInRotatedSortedArray",
+      "request": "launch",
+      "mainClass": "NeetCode150.SearchInRotatedSortedArray",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "FindMinimumInRotatedSortedArray",
+      "request": "launch",
+      "mainClass": "NeetCode150.FindMinimumInRotatedSortedArray",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "KokoEatingBanana",
+      "request": "launch",
+      "mainClass": "NeetCode150.KokoEatingBanana",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "basicSorting",
+      "request": "launch",
+      "mainClass": "maths_basics.basicSorting",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "SearchA2DMatrix",
       "request": "launch",
       "mainClass": "NeetCode150.SearchA2DMatrix",
