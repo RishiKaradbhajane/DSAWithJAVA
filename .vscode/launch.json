@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TimeMap2",
+      "request": "launch",
+      "mainClass": "NeetCode150.Time_based_key_value_pair.TimeMap2",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "TimeMap",
+      "request": "launch",
+      "mainClass": "NeetCode150.Time_based_key_value_pair.TimeMap",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "SearchInRotatedSortedArrayII",
       "request": "launch",
       "mainClass": "NeetCode150.SearchInRotatedSortedArrayII",
