@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MedianOfTwoSortedArray",
+      "request": "launch",
+      "mainClass": "NeetCode150.MedianOfTwoSortedArray",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "TimeMap2",
       "request": "launch",
       "mainClass": "NeetCode150.Time_based_key_value_pair.TimeMap2",
