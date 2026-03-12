@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReversedLinkedList",
+      "request": "launch",
+      "mainClass": "NeetCode150.ReversedLinkedList",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "MedianOfTwoSortedArray",
       "request": "launch",
       "mainClass": "NeetCode150.MedianOfTwoSortedArray",
