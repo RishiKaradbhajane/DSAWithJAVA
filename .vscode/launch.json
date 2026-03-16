@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReOrderList",
+      "request": "launch",
+      "mainClass": "NeetCode150.ReOrderList",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "MergeTwoSortedLists",
       "request": "launch",
       "mainClass": "NeetCode150.MergeTwoSortedLists",
