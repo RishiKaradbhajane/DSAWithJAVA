@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AddTwoNumbers",
+      "request": "launch",
+      "mainClass": "NeetCode150.AddTwoNumbers",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "ReOrderList",
       "request": "launch",
       "mainClass": "NeetCode150.ReOrderList",
