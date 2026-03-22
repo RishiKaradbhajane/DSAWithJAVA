@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "P42FindTheDuplicateNumber",
+      "request": "launch",
+      "mainClass": "NeetCode150.P42FindTheDuplicateNumber",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "P41LinkedListCycle",
       "request": "launch",
       "mainClass": "NeetCode150.P41LinkedListCycle",
