@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "P44MergeKSortedList",
+      "request": "launch",
+      "mainClass": "NeetCode150.P44MergeKSortedList",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "P42FindTheDuplicateNumber",
       "request": "launch",
       "mainClass": "NeetCode150.P42FindTheDuplicateNumber",
