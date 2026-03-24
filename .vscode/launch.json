@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "P47MaximumDepthOfBinaryTree",
+      "request": "launch",
+      "mainClass": "NeetCode150.P47MaximumDepthOfBinaryTree",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "P46InvertTheTree",
       "request": "launch",
       "mainClass": "NeetCode150.P46InvertTheTree",
