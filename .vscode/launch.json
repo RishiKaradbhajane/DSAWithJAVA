@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "P46InvertTheTree",
+      "request": "launch",
+      "mainClass": "NeetCode150.P46InvertTheTree",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "P45ReverseNodeInKGroups",
       "request": "launch",
       "mainClass": "NeetCode150.P45ReverseNodeInKGroups",
