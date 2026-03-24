@@ -1,9 +1,9 @@
 package NeetCode150;
 /*
-LEETCODE 104
+LEETCODE 543
 TC = O(N)
-SC = O(1)
-*/
+SC (STACK SPACE) = O(h) h-> height of the tree
+ */
 class TreeNode {
     int val;
     TreeNode left;
@@ -16,16 +16,24 @@ class TreeNode {
         this.right = right;
     }
 }
-public class P47MaximumDepthOfBinaryTree {
-    public static int maxDepth(TreeNode root) {
+public class P48DiameterOfBinaryTree {
+    static int maxDiameter = 0;
+    public static int getHeight(TreeNode root){
         if(root == null){
             return 0;
         }
-        int leftH = maxDepth(root.left);
-        int rightH = maxDepth(root.right);
-        return Math.max(leftH, rightH)+1;
+        int leftH = getHeight(root.left);
+        int rightH = getHeight(root.right);
+        maxDiameter = Math.max(maxDiameter, leftH + rightH);
+
+        return 1+ Math.max(leftH, rightH);
+    }
+    public static int diameterOfBinaryTree(TreeNode root) {
+        getHeight(root);
+        return maxDiameter;
     }
     public static void main(String[] args) {
+
         /*
                 Sample Tree:
                     1
@@ -41,9 +49,9 @@ public class P47MaximumDepthOfBinaryTree {
         root.left.left = new TreeNode(4);
         root.left.right = new TreeNode(5);
 
-        int depth = maxDepth(root);
+        
+        int diameter = diameterOfBinaryTree(root);
 
-        System.out.println("Maximum Depth of Tree: " + depth);
+        System.out.println("Diameter of Binary Tree: " + diameter);
     }
-
 }
