@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "P100SameTree",
+      "request": "launch",
+      "mainClass": "NeetCode150.P100SameTree",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "P48DiameterOfBinaryTree",
       "request": "launch",
       "mainClass": "NeetCode150.P48DiameterOfBinaryTree",
