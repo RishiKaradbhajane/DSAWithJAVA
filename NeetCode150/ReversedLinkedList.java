@@ -32,6 +32,7 @@ public class ReversedLinkedList {
         }
         System.out.print("null");
     }
+    
     public static void main(String[] args){
         ListNode node1 = new ListNode(10);
         ListNode node2 = new ListNode(20);

@@ -17,7 +17,7 @@ class TreeNode {
     }
 }
 public class P48DiameterOfBinaryTree {
-    static int maxDiameter = 0;
+    static int maxDiameter;
     public static int getHeight(TreeNode root){
         if(root == null){
             return 0;
@@ -39,8 +39,8 @@ public class P48DiameterOfBinaryTree {
                     1
                    / \
                   2   3
-                 / \
-                4   5
+                 / \   \
+                4   5   7
         */
 
         TreeNode root = new TreeNode(1);
@@ -48,6 +48,7 @@ public class P48DiameterOfBinaryTree {
         root.right = new TreeNode(3);
         root.left.left = new TreeNode(4);
         root.left.right = new TreeNode(5);
+        root.right.right = new TreeNode(7);
 
         
         int diameter = diameterOfBinaryTree(root);
