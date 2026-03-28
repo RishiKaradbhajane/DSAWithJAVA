@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "P52LeastCommonAncestorOfBST",
+      "request": "launch",
+      "mainClass": "NeetCode150.P52LeastCommonAncestorOfBST",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "P51SubtreeOfAnotherTree",
+      "request": "launch",
+      "mainClass": "NeetCode150.P51SubtreeOfAnotherTree",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "P100SameTree",
       "request": "launch",
       "mainClass": "NeetCode150.P100SameTree",

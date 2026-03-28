@@ -16,7 +16,7 @@ class TreeNode {
         this.right = right;
     }
 }
-public class P100SameTree {
+public class P50SameTree {
     public static boolean isSameTree(TreeNode p, TreeNode q){
         if(p==null && q==null){
             return true;
