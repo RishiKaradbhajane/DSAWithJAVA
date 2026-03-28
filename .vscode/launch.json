@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "P522LeastCommonAncestorInBinaryTree",
+      "request": "launch",
+      "mainClass": "NeetCode150.P522LeastCommonAncestorInBinaryTree",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "P52LeastCommonAncestorOfBST",
       "request": "launch",
       "mainClass": "NeetCode150.P52LeastCommonAncestorOfBST",
