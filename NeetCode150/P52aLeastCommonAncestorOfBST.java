@@ -19,7 +19,7 @@ class TreeNode{
         this.right = right;
     }
 }
-public class P52LeastCommonAncestorOfBST {
+public class P52aLeastCommonAncestorOfBST {
     // Approach 1 : Iterative
     public static TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         while(root != null){

@@ -6,7 +6,7 @@ class TreeNode {
     TreeNode right;
     TreeNode(int x) { val = x; }
  }
-public class P522LeastCommonAncestorInBinaryTree {
+public class P52bLeastCommonAncestorInBinaryTree {
 
     public static TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q){
         if(root == null || root == p || root == q){
