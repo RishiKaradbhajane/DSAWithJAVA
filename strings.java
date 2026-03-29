@@ -40,5 +40,20 @@ public class strings{
         String vehicle = new String("racecar");
         printlettes(fullname2);
         System.out.println(isPallindrome(vehicle));
+        System.out.println("Try programiz.pro");
+        Integer a = new Integer("30");
+        System.out.println(a+30);
+        int ab = a.intValue();
+        System.out.println(ab);
+        int d = 10;
+        Integer d1 = Integer.valueOf(d);
+        System.out.println(d1);
+        String s = "90";
+        long l = Long.parseLong(s);
+        System.out.println(l);
+        String s1 = "abc";
+        final String s2 = "ab";
+        final String s3 = "c";
+        System.out.println(s1 == s2+s3);
         }
 }

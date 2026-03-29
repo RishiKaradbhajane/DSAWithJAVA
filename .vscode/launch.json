@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "P54BinaryTreeRightSideView",
+      "request": "launch",
+      "mainClass": "NeetCode150.P54BinaryTreeRightSideView",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "P53BinaryTreeLevelOrderTraversal",
       "request": "launch",
       "mainClass": "NeetCode150.P53BinaryTreeLevelOrderTraversal",
