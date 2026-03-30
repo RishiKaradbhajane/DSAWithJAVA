@@ -4,12 +4,19 @@ LEETCODE 1448
 SC = O(N)
 TC = O(N)
  */
-class ListNode {
-     int val;
-     ListNode next;
-      ListNode() {}
-      ListNode(int val) { this.val = val; }
-      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+class TreeNode{
+    int val;
+    TreeNode left; 
+    TreeNode right;
+    public TreeNode(){}
+    public TreeNode(int val){
+        this.val = val;
+    }
+    public TreeNode(int val, TreeNode left, TreeNode right){
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
 }
 public class P55CountGoodNodesInBinaryTree {
     static int counter = 0;
