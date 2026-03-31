@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "P57KthSmallestElementInBST",
+      "request": "launch",
+      "mainClass": "NeetCode150.P57KthSmallestElementInBST",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "P56ValidateBinarySearchTree",
       "request": "launch",
       "mainClass": "NeetCode150.P56ValidateBinarySearchTree",
