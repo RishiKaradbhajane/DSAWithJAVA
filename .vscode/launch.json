@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinaryTreeMaxPathSum",
+      "request": "launch",
+      "mainClass": "NeetCode150.BinaryTreeMaxPathSum",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "P58ConstructBinaryTreeUsingInorderAndPreOrder",
       "request": "launch",
       "mainClass": "NeetCode150.P58ConstructBinaryTreeUsingInorderAndPreOrder",
