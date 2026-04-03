@@ -1,7 +1,6 @@
 package NeetCode150;
 
 import java.util.ArrayList;
-
 /*
 LEETCODE 230
 SC = O(N)
