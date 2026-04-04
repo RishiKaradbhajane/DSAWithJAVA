@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SerializeAndDeserializeBinaryTree",
+      "request": "launch",
+      "mainClass": "NeetCode150.SerializeAndDeserializeBinaryTree",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "BinaryTreeMaxPathSum",
       "request": "launch",
       "mainClass": "NeetCode150.BinaryTreeMaxPathSum",
