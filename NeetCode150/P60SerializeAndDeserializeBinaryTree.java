@@ -9,7 +9,7 @@ O(h) recursion stack
     Worst case: O(n)
     Balanced tree: O(log n)
  */
-public class SerializeAndDeserializeBinaryTree {
+public class P60SerializeAndDeserializeBinaryTree {
     public String recSerialize(TreeNode root, String str){
         if(root==null){
             return str+="null,";
@@ -42,7 +42,7 @@ public class SerializeAndDeserializeBinaryTree {
         return recDeserialize(list);
     }
     public static void main(String[] args) {
-        SerializeAndDeserializeBinaryTree obj = new SerializeAndDeserializeBinaryTree();
+        P60SerializeAndDeserializeBinaryTree obj = new P60SerializeAndDeserializeBinaryTree();
 
         // Create sample tree:
         //        1

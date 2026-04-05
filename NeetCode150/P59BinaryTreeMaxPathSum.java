@@ -4,7 +4,7 @@ LEETCODE 124
 TC = O(N)
 SC = O(h) , h = height of the tree
  */
-public class BinaryTreeMaxPathSum {
+public class P59BinaryTreeMaxPathSum {
     int maxSum = Integer.MIN_VALUE;
     public int maxGain(TreeNode root){
         if(root==null){
@@ -21,7 +21,7 @@ public class BinaryTreeMaxPathSum {
         return maxSum;
     }
     public static void main(String[] args){
-        BinaryTreeMaxPathSum obj = new BinaryTreeMaxPathSum();
+        P59BinaryTreeMaxPathSum obj = new P59BinaryTreeMaxPathSum();
 
         /*
                 Sample Tree:
