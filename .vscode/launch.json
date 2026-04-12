@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LongestPalindromeSubstring",
+      "request": "launch",
+      "mainClass": "LongestPalindromeSubstring",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "FourSum2",
+      "request": "launch",
+      "mainClass": "FourSum2",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "FourSum",
       "request": "launch",
       "mainClass": "FourSum",
