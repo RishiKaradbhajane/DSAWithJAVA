@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinDistanceToTheTarget",
+      "request": "launch",
+      "mainClass": "MinDistanceToTheTarget",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "LongestPalindromeSubstring",
       "request": "launch",
       "mainClass": "LongestPalindromeSubstring",
