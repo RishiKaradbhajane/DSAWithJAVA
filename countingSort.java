@@ -30,3 +30,23 @@ public interface countingSort {
 
     }
 }
+/*
+Complexity Analysis of Counting Sort:
+Time Complexity: O(N+M) in all cases, where N and M are the size of inputArray[] and countArray[] respectively.
+Auxiliary Space: O(N+M), where N and M are the space taken by outputArray[] and countArray[] respectively.
+
+Advantage, of Counting Sort:
+Counting sort generally performs faster than all comparison-based sorting algorithms, such as merge sort and quicksort, if the range of input is of the order of the number of input.
+Stable Algorithm
+
+Disadvantage of Counting Sort:
+Does not work on decimal values.
+Inefficient if the range of values to be sorted is very large.
+Not an In-place sorting algorithm, It uses extra space for sorting the array elements.
+
+Applications of Counting Sort:
+It is a commonly used algorithm for the cases where we have limited range items. For example, sort students by grades, sort a events by time, days, months, years, etc
+It is used as a subroutine in Radix Sort
+The idea of counting sort is used in Bucket Sort to divide elements into different buckets.
+
+*/
