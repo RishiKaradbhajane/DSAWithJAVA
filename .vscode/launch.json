@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "countingSort",
+      "request": "launch",
+      "mainClass": "countingSort",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "MinDistanceToTheTarget",
       "request": "launch",
       "mainClass": "MinDistanceToTheTarget",
