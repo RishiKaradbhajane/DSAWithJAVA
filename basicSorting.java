@@ -15,9 +15,9 @@ public class basicSorting{
             }
         }
         if(nswaps <= 0){
-                    System.out.println("your array is already sorted");
-                }
+                System.out.println("your array is already sorted");
             }
+        }
         public static void selectionSort(int arr[]){
             for(int i=0;i<arr.length-1; i++){
                 int minPos = i;

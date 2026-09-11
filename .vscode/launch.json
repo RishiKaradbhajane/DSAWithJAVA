@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "heapSortAlgorithm",
+      "request": "launch",
+      "mainClass": "heapSortAlgorithm",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
+      "name": "continue1",
+      "request": "launch",
+      "mainClass": "continue1",
+      "projectName": "DSAwithJava_63ca4abf"
+    },
+    {
+      "type": "java",
       "name": "countingSort",
       "request": "launch",
       "mainClass": "countingSort",
